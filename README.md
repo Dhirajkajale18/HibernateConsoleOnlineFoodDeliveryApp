@@ -80,8 +80,18 @@ xml
 
 
 **Console Preview**
-![image alt]( [https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png])
+
+
+
+
+![image alt]( https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png)
+
+
+
 ![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output2%20(2).png)
+
+
+
 ![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output3.png)
 
 
