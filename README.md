@@ -76,7 +76,20 @@ xml
     </persistence-unit>
 </persistence>
 
-**Output**
-![image alt]( [https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output1%20(2).png))
+
+
+
+**Console Preview**
+![image alt]( [https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png])
 ![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output2%20(2).png)
 ![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output3.png)
+
+
+
+
+
+**📞 Contact For any questions or issues, feel free to reach out to the developer at:**
+
+📧 Email: kajaledhiraj088@gmail.com
+
+🐙 GitHub: Dhirajkajale18
