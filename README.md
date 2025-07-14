@@ -31,7 +31,7 @@ Console (Scanner)	User interaction input
 
 
 **📁 Project Structure**
-![image alt](C:\Users\Welcome\Pictures\Screenshots\Structure (2).png)
+![image alt]( https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png)
 
 
 
@@ -76,3 +76,7 @@ xml
     </persistence-unit>
 </persistence>
 
+**Output**
+![image alt]( [https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Structure%20(2).png](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output1%20(2).png))
+![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output2%20(2).png)
+![image alt](https://github.com/Dhirajkajale18/HibernateConsoleOnlineFoodDeliveryApp/blob/main/Output3.png)
