@@ -31,7 +31,7 @@ Console (Scanner)	User interaction input
 
 
 **📁 Project Structure**
-
+![image alt](C:\Users\Welcome\Pictures\Screenshots\Structure (2).png)
 
 
 
